@@ -1,0 +1,8 @@
+csvReaderTomtom/daos/FsGeoNameDAO.class
+csvReaderTomtom/model/GeoName.class
+csvReaderTomtom/controller/GeoNameController.class
+csvReaderTomtom/SwaggerConfig.class
+csvReaderTomtom/Main.class
+csvReaderTomtom/utils/CSVReader.class
+csvReaderTomtom/service/GeoNameService.class
+csvReaderTomtom/daos/GeoNameDAO.class
